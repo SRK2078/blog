@@ -5,6 +5,7 @@ seoDescription: "Optimize API performance in Node.js with DNS caching. Learn how
 datePublished: Tue Mar 11 2025 14:36:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm84lgxd7000009l4a6lghd2a
 slug: dns-caching-in-nodejs-supercharge-your-apps-speed-and-reliability
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741711414397/8fd0523a-1cb4-45e4-ad1e-539ec795a39d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1741709904653/efc07a6b-2354-45d3-8810-f1b66ff11053.png
 tags: nodejs, developer
 
