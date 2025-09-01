@@ -5,6 +5,8 @@ seoDescription: "Create a Learning Management System using MERN stack with cours
 datePublished: Sun Aug 24 2025 09:58:39 GMT+0000 (Coordinated Universal Time)
 cuid: cmepimx0c000q02l71woo3783
 slug: full-stack-learning-management-system-lms-with-mern-stack-a-complete-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756737979749/59f62546-0da6-49fa-9078-0be84764958a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1756738480908/d3df4aab-3170-4d1c-b4ec-a3eb1858f84a.png
 tags: express, mongodb, reactjs, final-year-project, bun, udemy-clone-script
 
 ---
