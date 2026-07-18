@@ -2,7 +2,7 @@
 title: "Single Sign-On (SSO) Implementation Using Passport.js in TypeScript"
 seoTitle: "SSO with Passport.js and TypeScript"
 seoDescription: "Learn how to implement Single Sign-On (SSO) in Node.js using Passport.js and TypeScript for enhanced user experience and secure authentication"
-datePublished: Fri Jan 17 2025 18:15:35 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-17T18:15:35.185Z
 cuid: cm612yexd000609jxabrp9t46
 slug: single-sign-on-sso-implementation-using-passportjs-in-typescript
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737137497543/4c9f6a01-d26c-439c-a276-50251cdae746.png
