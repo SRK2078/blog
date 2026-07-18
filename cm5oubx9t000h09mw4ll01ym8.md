@@ -2,7 +2,7 @@
 title: "Enhancing Redis for Message Queues: Using External Databases for Payload Storage"
 seoTitle: "Redis Queues: Storing Payloads Externally"
 seoDescription: "Use external databases for payloads in Redis queues to reduce memory use, lower costs, and improve scalability for small to medium projects"
-datePublished: Thu Jan 09 2025 04:40:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-09T04:40:54.833Z
 cuid: cm5oubx9t000h09mw4ll01ym8
 slug: enhancing-redis-for-message-queues-using-external-databases-for-payload-storage
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736397696183/38fffdb0-da8f-4a08-8207-abf8bfd5e405.jpeg
