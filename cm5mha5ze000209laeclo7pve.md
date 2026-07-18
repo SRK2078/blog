@@ -2,7 +2,7 @@
 title: "A Guide to Server-Side Rendering (SSR) with Vite and React.js"
 seoTitle: "SSR with Vite and React: A Guide"
 seoDescription: "Learn to implement Server-Side Rendering (SSR) with React.js and Vite for improved web performance and SEO"
-datePublished: Tue Jan 07 2025 13:00:05 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-07T13:00:05.450Z
 cuid: cm5mha5ze000209laeclo7pve
 slug: a-guide-to-server-side-rendering-ssr-with-vite-and-reactjs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736255453305/5d8c01c4-0478-4570-a0d2-8a343c1c17b4.png
