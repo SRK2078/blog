@@ -2,7 +2,7 @@
 title: "Next-Gen E-Learning: Transforming Education for Students and Creators"
 seoTitle: "Revolutionizing E-Learning"
 seoDescription: "Explore an e-learning platform empowering creators and enhancing student engagement with interactive, monetizable educational experiences"
-datePublished: Sat Dec 07 2024 03:47:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-12-07T03:47:53.024Z
 cuid: cm4dmwm67000309le4n6cfxic
 slug: next-gen-e-learning-transforming-education-for-students-and-creators
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TamMbr4okv4/upload/0cc897d3303f25e63e518849358d4cd4.jpeg
