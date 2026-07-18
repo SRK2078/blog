@@ -2,7 +2,7 @@
 title: "Using Multer for Local File Uploads: Benefits, Trade-offs, and Cloud Transfer Integration"
 seoTitle: "Multer File Uploads: Local and Cloud Strategies"
 seoDescription: "Multer offers benefits like easy debugging and processing flexibility but has trade-offs when transferring files to the cloud after local uploads"
-datePublished: Mon Dec 30 2024 05:24:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-12-30T05:24:59.280Z
 cuid: cm5ali32o00050al13cew1qfx
 slug: using-multer-for-local-file-uploads-benefits-trade-offs-and-cloud-transfer-integration
 
