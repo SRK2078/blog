@@ -2,7 +2,7 @@
 title: "Comprehensive Guide: Encrypting Images, Uploading to Cloudinary, and Serving Them Securely"
 seoTitle: "Encrypting Images, Uploading to Cloudinary, and Serving Them Securely"
 seoDescription: "Learn to encrypt images, upload securely to Cloudinary, and serve them safely with this comprehensive guide on secure image handling processes"
-datePublished: Wed Jan 08 2025 11:51:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-08T11:51:15.266Z
 cuid: cm5nu9hs2000w08mm6xlfg87y
 slug: comprehensive-guide-encrypting-images-uploading-to-cloudinary-and-serving-them-securely
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736336845591/69561304-6153-4593-af17-8b70ed9e0c23.png
