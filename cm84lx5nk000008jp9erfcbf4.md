@@ -2,7 +2,7 @@
 title: "🔄 Background DNS Refresh in Node.js: Keeping Cached IPs Updated"
 seoTitle: "Node.js Guide: Refreshing Cached DNS IPs"
 seoDescription: "Learn how to implement background DNS refresh in Node.js to maintain consistent performance and eliminate latency spikes in high-traffic applications"
-datePublished: Tue Mar 11 2025 14:49:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-11T14:49:12.416Z
 cuid: cm84lx5nk000008jp9erfcbf4
 slug: background-dns-refresh-in-nodejs-keeping-cached-ips-updated
 tags: nodejs
