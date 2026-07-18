@@ -2,7 +2,7 @@
 title: "Getting Started with Redis: Elevating Your Web Applications"
 seoTitle: "Boost Web Apps with Redis: A Beginner's Guide"
 seoDescription: "Learn how to integrate Redis for scalable web applications, enhancing performance, session management, caching, and more with Express.js"
-datePublished: Wed Jan 22 2025 17:59:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-22T17:59:55.458Z
 cuid: cm687lj5u000d09i8cgn9dgds
 slug: getting-started-with-redis-elevating-your-web-applications
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737568708534/66c774dc-7298-433b-9cef-8ef3049532c5.png
