@@ -2,7 +2,7 @@
 title: "Full Stack Learning Management System (LMS) with MERN Stack: A Complete Guide"
 seoTitle: "Build a MERN Stack LMS: Comprehensive Guide"
 seoDescription: "Create a Learning Management System using MERN stack with course management, user roles, authentication, and file storage in this comprehensive guide"
-datePublished: Sun Aug 24 2025 09:58:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-24T09:58:39.516Z
 cuid: cmepimx0c000q02l71woo3783
 slug: full-stack-learning-management-system-lms-with-mern-stack-a-complete-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756737979749/59f62546-0da6-49fa-9078-0be84764958a.png
